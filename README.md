@@ -21,7 +21,7 @@ Actualmente están implementadas tres funcionalidades:
 Esto puede resultar útil en caso de tener una muestra de información además de los monitor de prometheus + grafana. En vista que en general existen ataques de DNS en formato wildcard y nos ayuda a tener información al respecto.
 
 
-# Ejemplo de uso
+## Ejemplo de uso
 
 Este parser esta orientado y basado en el uso de la herramienta coredns. Por lo tanto necesitan tener el plugin de **log** habilitado.
 
